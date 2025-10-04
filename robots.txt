@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reformas-malgrat-de-mar.es/sitemap.xml
